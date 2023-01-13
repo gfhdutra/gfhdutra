@@ -1,10 +1,12 @@
 # Gabriel Dutra
 
+<!-- 
 <div>
   <a href="https://github.com/gfhdutra">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=gfhdutra&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide=issues"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gfhdutra&layout=compact&theme=react&langs_count=16"/>
 </div>
+  -->
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Gabriel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
